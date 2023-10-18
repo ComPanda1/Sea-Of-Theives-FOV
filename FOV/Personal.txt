@@ -1,0 +1,10 @@
+139.175003 Normal
+66.804001 Sniper
+109.485001 Pistol
+148.453995 Sprinting
+115.000000 Blunder
+68.660004 Spyglass
+104.845001 CannonADS
+121.545998 Cannon
+1 MapTable
+45 MenuHotkey

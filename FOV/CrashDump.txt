@@ -1,0 +1,8 @@
+AACharacter                    0000024185620000
+PlayerCharacter                0000024185620000
+Cheats                         0
+Spyglass                       0000000000000000
+Weapon                         0000000000000000
+Current Output:                Checking if mounted
+Performance Mode:              0
+Currently Held Item:           
